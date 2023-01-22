@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+nav { border: 2px solid #ffb6c1; margin-top: 15px;
+ padding-top: 5px;
+  padding-bottom: 5px;
+   background-color: #ffb6c1;
+    } 
+
+nav a{ border: 2px solid #bd33a4;
+ margin: 5px;
+  text-decoration: none;
+   border-radius: 10px;
+    padding-right: 5px;
+     padding-left: 5px;
+      background-color: white;
+       color: black;
+        } 
+
+.pod { border: 2px solid #red;
+ background-color: #bd33a4;
+  border-radius: 10px;
+   text-decoration: none;
+    padding-right: 5px; 
+    padding-left: 7px;
+     color: white;
+      }
+     h1 {color:blue
+} 
+footer{background-color: aqua;}
